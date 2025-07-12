@@ -1,0 +1,26 @@
+{
+  "plastic": {
+    "co2": 1.5,
+    "recommend": "Use recycled cardboard or paper"
+  },
+  "paper": {
+    "co2": 0.2,
+    "recommend": "Already eco-friendly"
+  },
+  "cardboard": {
+    "co2": 0.3,
+    "recommend": "Already eco-friendly"
+  },
+  "glass": {
+    "co2": 0.6,
+    "recommend": "Consider PET or thin-glass"
+  },
+  "metal": {
+    "co2": 2.1,
+    "recommend": "Use foil or compostable tray"
+  },
+  "trash": {
+    "co2": 1.8,
+    "recommend": "Switch to recyclable packaging"
+  }
+}

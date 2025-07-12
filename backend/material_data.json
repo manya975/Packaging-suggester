@@ -1,0 +1,8 @@
+{
+    "cardboard": { "co2": 0.2, "suggestion": "Already eco-friendly" },
+    "soft_plastic": { "co2": 0.8, "suggestion": "Try using paper or compostable wrap" },
+    "hard_plastic": { "co2": 1.5, "suggestion": "Consider recycled plastic or paper alternatives" },
+    "glass": { "co2": 0.6, "suggestion": "Encourage reuse or recycling programs" },
+    "metal": { "co2": 2.0, "suggestion": "Switch to lighter, recyclable packaging" }
+  }
+  
